@@ -1,4 +1,4 @@
-
+//CONSOLA PARA INGRESAR AMIGOS
 let amigos = [];
 
 function agregarAmigo() {
